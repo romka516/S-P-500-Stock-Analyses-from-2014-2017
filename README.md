@@ -16,7 +16,7 @@ The project uses historical stock market data for S&P 500 companies from 2014 to
 
 ## Step-by-Step Guide
 
-For detailed instructions on how to set up and use the Stock Analysis Dashboard, refer to the (StepByStepGuide.pdf) file in this repository.
+For detailed instructions on how to set up and use the Stock Analysis Dashboard, refer to the Step By Step Guide file in this repository.
 
 This report provides insights into group by operations in Power Query Editor, DAX functions used for measure creation, and a detailed exploration of S&P 500 stock prices data.
 
