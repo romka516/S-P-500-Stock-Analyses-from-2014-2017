@@ -1,4 +1,4 @@
-# S-P-500-Stock-Analyses-from-2014-2017
+# S&P 500 Stock Analyses from 2014 to 2017
 
 Welcome to the Stock Analysis Dashboard repository! This project aims to provide insightful visualizations and analysis of historical stock market data for S&P 500 companies by Power BI. The dashboard enables users to explore trends, volumes, and price changes over time, facilitating data-driven insights for investment decisions.
 
