@@ -14,7 +14,7 @@ Welcome to the Stock Analysis Dashboard repository! This project aims to provide
 
 The project uses historical stock market data for S&P 500 companies from 2014 to 2017. The data includes daily trading information such as ticker name, volume, high, low, open, and close prices.
 
-## Step-by-Step Guide and Comprehensive Report
+## Step-by-Step Guide
 
 For detailed instructions on how to set up and use the Stock Analysis Dashboard, refer to the (StepByStepGuide.pdf) file in this repository.
 
