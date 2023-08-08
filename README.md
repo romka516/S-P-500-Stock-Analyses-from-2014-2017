@@ -20,6 +20,18 @@ For detailed instructions on how to set up and use the Stock Analysis Dashboard,
 
 This report provides insights into group by operations in Power Query Editor, DAX functions used for measure creation, and a detailed exploration of S&P 500 stock prices data.
 
+## Final State of Stock Analysis Dashboard
+
+Here's a glimpse of the final state of the Stock Analysis Dashboard in Power BI:
+
+![image](https://github.com/romka516/S-P-500-Stock-Analyses-from-2014-2017/assets/101732278/02102a0a-d512-4e21-9b78-6c6770677036)
+![image](https://github.com/romka516/S-P-500-Stock-Analyses-from-2014-2017/assets/101732278/b5a73a09-9768-402b-9bad-56d2e510ae76)
+
+
+
+
+Explore these images to get a visual sense of the insights you can gain from the dashboard.
+
 ## Contributing
 
 Contributions to enhance or extend this project are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
